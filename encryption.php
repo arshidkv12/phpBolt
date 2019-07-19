@@ -14,7 +14,8 @@ $excludes = array();
  * No need to edit following code 
  */
 if (!extension_loaded('bolt')) {
-    die('Please install <a hreaf="https://phpBolt.com">bolt.so</a>');
+    echo 'Please install <a hreaf="https://phpBolt.com">bolt.so</a>';
+    exit;
 }
 
 foreach($excludes as $key => $file){
