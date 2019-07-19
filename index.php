@@ -2,7 +2,7 @@
 
 /**
  * src : source folder 
- * encrypted : Output folder
+ * encrypted : Output folder 
  */
 
 $src      = 'src/hello';
