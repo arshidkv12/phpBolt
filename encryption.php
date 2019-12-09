@@ -2,21 +2,18 @@
 
 /**
  * src : source folder 
- * encrypted : Output folder 
+ * encrypted : Output folder
  */
 
-$src      = 'src/hello';
+$src      = 'src/noti';
 $php_blot_key = "kyc7fh";
-$excludes = array();
 
 
 /**
  * No need to edit following code 
  */
-if (!extension_loaded('bolt')) {
-    echo 'Please install <a href="https://phpBolt.com">bolt.so</a>';
-    exit;
-}
+
+$excludes = array('vendor');
 
 foreach($excludes as $key => $file){
     $excludes[ $key ] = $src.'/'.$file;
@@ -43,10 +40,17 @@ foreach ($rec as $file) {
         continue;
     }
 
-    $contents = file_get_contents( $filePath );  
-    $cipher   = bolt_encrypt( "?> ".$contents, $php_blot_key );
+    $contents = file_get_contents( $filePath );
     $preppand = '<?php bolt_decrypt( __FILE__ , PHP_BOLT_KEY); return 0;
     ##!!!##';
+    $re = '/\<\?php/m';
+    preg_match($re, $contents, $matches ); 
+    if(!empty($matches[0]) ){
+        $contents = preg_replace( $re, '', $contents );
+        ##!!!##';
+    }
+    /*$cipher   = bolt_encrypt( "?> ".$contents, $php_blot_key );*/
+    $cipher   = bolt_encrypt( $contents, $php_blot_key );
     $newFile  = str_replace('src', 'encrypted', $filePath );
     $fp = fopen( $newFile, 'w');
     fwrite($fp, $preppand.$cipher);
