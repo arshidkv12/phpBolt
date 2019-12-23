@@ -1,5 +1,6 @@
 # phpBolt - Best php encoder - ( ioncube alternative ) - 100% free 
 
+Pleae check https://packagist.org/packages/phpbolt/encrypt
 
 First install **bolt.so** then you can encrypt php source code with **encryption.php** file. 
 
