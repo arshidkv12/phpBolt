@@ -4,6 +4,8 @@
 
 Pleae check https://packagist.org/packages/phpbolt/encrypt
 
+Laravel https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter
+
 First install **bolt.so** then you can encrypt php source code with **encryption.php** file. 
 
 **[phpBolt.com](https://phpBolt.com)**
