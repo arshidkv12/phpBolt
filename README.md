@@ -1,6 +1,6 @@
 # phpBolt - Best php encoder - ( ioncube alternative ) - 100% free 
 
-★★★ Please give star on github :)  ★★★
+🌟🌟🌟 Please give star on github :)  🌟🌟🌟
 
 Pleae check https://packagist.org/packages/phpbolt/encrypt
 
