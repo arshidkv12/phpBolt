@@ -10,6 +10,10 @@ First install **bolt.so** then you can encrypt php source code with **encryption
 
 **[phpBolt.com](https://phpBolt.com)**
 
+PHP 7.1,7.2,7.3,7.4, 8.0,8.1
+
+Please try on Linux or mac
+
 ## How to install bolt.so ?
 Download bolt.so file from https://phpbolt.com/ website. Then find extension directory. 
 You can find extension directory by `phpinfo()` function. 
