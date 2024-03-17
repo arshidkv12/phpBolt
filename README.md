@@ -14,7 +14,7 @@ PHP 7.1,7.2,7.3,7.4,8.0,8.1,8.2
 
 Please try it on Linux or Mac.
 
-**[Email testing tool](https://youtu.be/fAXevTJ0r8I)** - MailMug.net
+**[Email testing tool - SMTP Sandbox](MailMug.net)** - MailMug.net
 
 ## How to install bolt.so ?
 Download bolt.so file from https://phpbolt.com/ website. Then find extension directory. 
