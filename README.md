@@ -1,4 +1,4 @@
-# phpBolt - Best php encoder - ( ioncube alternative ) - 100% free 
+# phpBolt - Best php encoder  
 
 🌟🌟🌟 Please give a star on GitHub :)  🌟🌟🌟
 
