@@ -1,4 +1,4 @@
-# phpBolt - Best php encoder  
+# PHPBolt - Best php encoder  
 
 🌟🌟🌟 Please give a star on GitHub :)  🌟🌟🌟
 
@@ -13,6 +13,10 @@ First, install **bolt.so** then you can encrypt php source code with **encryptio
 **Supported PHP Versions:** 7.1, 7.2, 7.3, 7.4, 8.0, 8.1, 8.2, 8.3, 8.4
 
 **Compatible Platforms:** Linux, macOS, and Windows
+
+
+## ⭐ Show your support!
+If you find this project helpful, please consider giving it a star on GitHub
 
  
 
