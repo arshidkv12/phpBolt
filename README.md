@@ -20,6 +20,9 @@ If you find this project helpful, please consider giving it a star on GitHub
 
  <br>
 
+ **Support PHPBolt** — Help keep PHPBolt fast and updated. [Donate](your-donation-link)
+<br>
+
 ## How to install bolt.so?
 Download bolt.so file from https://phpbolt.com/ website. Then find the extension directory. 
 You can find the extension directory by `phpinfo()` function. 
