@@ -20,7 +20,7 @@ If you find this project helpful, please consider giving it a star on GitHub
 
  <br>
 
- **Support PHPBolt** — Help keep PHPBolt fast and updated. [Donate](your-donation-link)
+ **Support PHPBolt** — Help keep PHPBolt fast and updated. [Donate](https://ko-fi.com/mailmug)
 <br>
 
 ## How to install bolt.so?
