@@ -6,9 +6,14 @@ Please check https://packagist.org/packages/phpbolt/encrypt
 
 Laravel https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter
 
-First, install **bolt.so** then you can encrypt php source code with **encryption.php** file. 
+First, install **bolt.so** then you can encrypt php source code with **encryption.php** file.
+
+We’re creating a powerful encryption extension that will be released soon. Connect with us on Discord: https://discord.gg/f2xMKs8KBg
 
 **[phpBolt.com](https://phpBolt.com)**
+
+We’re creating a powerful encryption extension. Join us on Discord: [https://discord.gg/f2xMKs8KBg](https://discord.gg/f2xMKs8KBg)
+
 
 **Supported PHP Versions:** 7.1, 7.2, 7.3, 7.4, 8.0, 8.1, 8.2, 8.3, 8.4
 
@@ -33,37 +38,5 @@ Please check https://phpbolt.com/how-to-encrypt-php-source-code/
 
 
 
-<br>
-<br>
-  
-<!-- wp:paragraph -->
-## 🔐 Convert Your PHP Code to C – Protect Your Source, Boost Performance</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Do you want to secure your PHP code from being copied or reverse-engineered?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>I offer a professional service to convert your PHP functions, classes, or entire libraries into <strong>compiled C extensions</strong>, making your logic unreadable and faster.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>✅ Protect your business logic<br>✅ Reduce the risk of code theft<br>✅ Improve performance<br>✅ Compatible with major PHP versions</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Example: <a href="https://github.com/arshidkv12/traitify">https://github.com/arshidkv12/traitify</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Feel free to PM info@mailmug.net</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Discord:arshidkv12</p>
-<!-- /wp:paragraph -->
+<br>  
+ 
