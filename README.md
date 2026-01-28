@@ -29,7 +29,7 @@ If you find this project helpful, please consider giving it a star on GitHub
 <br>
 
 ## How to install bolt.so?
-Download bolt.so file from https://phpbolt.com/ website. Then find the extension directory. 
+Download bolt.so file from the https://phpbolt.com/ website. Then find the extension directory. 
 You can find the extension directory by `phpinfo()` function. 
 Then add `extension=bolt.so` in the php.ini file and restart your server. 
 
@@ -40,5 +40,6 @@ Please check https://phpbolt.com/how-to-encrypt-php-source-code/
 
 <br>  
 
-SMTP Sandbox [MialMug.net](https://mailmug.net/)
- 
+I can create a custom extension for you. 
+The custom extension is more secure than the free version.
+Feel free to PM info@mailmug.net
