@@ -15,7 +15,7 @@ We’re creating a powerful encryption extension that will be released soon. Con
 We’re creating a powerful encryption extension. Join us on Discord: [https://discord.gg/f2xMKs8KBg](https://discord.gg/f2xMKs8KBg)
 
 
-**Supported PHP Versions:** 7.1, 7.2, 7.3, 7.4, 8.0, 8.1, 8.2, 8.3, 8.4
+**Supported PHP Versions:** 7.1, 7.2, 7.3, 7.4, 8.0, 8.1, 8.2, 8.3, 8.4, 8.5
 
 **Compatible Platforms:** Linux, macOS, and Windows
 <br>
